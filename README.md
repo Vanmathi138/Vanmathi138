@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise 
 ## 🚀 About Me  
 
 - 🔭 I’m currently enhancing my skills in **Java**, **Spring Boot**, **Spring Security**, and **JWT** to build robust and secure APIs.  
-- 🌱 I’m exploring **cloud services** to streamline deployments and improve system performance.  
 - 👯 I’m looking to collaborate on projects involving **backend development**, **API design**, and **security**.  
 - 💬 Ask me about **Java**, **MySQL**, **PostgreSQL**, **Spring Boot**, or **RESTful APIs**—I’m always excited to share insights.  
 - 📫 How to reach me: **vanmathik1308@gmail.com**  
